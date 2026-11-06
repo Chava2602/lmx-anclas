@@ -1,0 +1,16 @@
+LMX ancla GÉNESIS — paquete autorizado para el registro prospectivo
+tipo: génesis (antes de cualquier predicción oficial)
+modelos_autorizados: LMX-C-v1.0.0 (principal), LMX-Dxi-v1.0.0 (sombra)
+sha256_zip_paquete (fase3a_1_integridad.zip): 821d58d0b8b5e4d08e53ed6b18ab698f6fc46c9e5a2838c79df609789ec4bb6a
+sha256_manifiesto_paquete (MANIFIESTO_SHA256.txt): 168f33f00faed2c17ce6a499dadb01a4fe3b38a08dd24f4ffee99ee1dbbfebd2
+sha256_congelacion (FASE3A_CONFIGURACION_CONGELACION.json): ddc8411c0bc99aac484e5493b43de0e988a5208183c40e941ca8493ea30bdb8c
+sha256_codigo_congelado: c15f6daeac9d342173d44bc6d108b8d364c77afea72207d12e4a4888d13ee4da
+sha256_config (modelo_congelado.json): e38d0d5e4075d0b947bf6b97529364daecd2f20caec58c098e4b42661f38ff2d
+sha256_verificador (src/integridad.py): 032cf1c9923f403deb77f4bcd884d4c32b2ce84246137f0af9c76ecfc0c69c3b
+sha256_generador (src/predecir_oficial.py): 7b26c5d939b36589f47fdb4b27ac9220d740d24dea1ac1ed55a28b7fb61f0021
+sha256_registrador (src/registro_v2.py): 5f82a3afa2ac4bc3830c4f3f6d252796a2b0675203457840509fc855247128bf
+sha256_datos_iniciales (data/ligamx_partidos_v2.csv): 1c34d5fe4df6f6cf058c97499166d7d45249bf5013ba53f4e2d2b1c89859125b — 4789 partidos, último 2026-11-02 01:10:00+00:00
+registro_oficial: registro/oficial/predicciones_oficiales.csv — AÚN NO EXISTE (0 filas)
+comprobacion: versiones exactas OK; manifiesto 82/82 OK; verificador OK; pytest 54 passed, 0 skipped, 0 failed
+preparado_utc: 2026-11-06T16:07:07.523431+00:00
+estado: PENDIENTE DE PUBLICAR (no es un ancla hasta que se publique y se confirme con evidencia)
