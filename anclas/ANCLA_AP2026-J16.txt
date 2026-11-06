@@ -1,0 +1,12 @@
+LMX ancla de registro prospectivo
+jornada_id: AP2026-J16
+archivo_registro: predicciones_oficiales.csv
+filas_totales: 2
+filas_jornada: 2
+hash_final_cadena: 5c89322135f688eb041769bbd260c5ff2b7a48db4add5996209d6b6e74d015da
+sha256_archivo_registro: 2c448b37b606db2821e4541389fb3c4a9af0fd2ff3b1ab449ffc501c88ae5b2d
+sha256_congelacion: ddc8411c0bc99aac484e5493b43de0e988a5208183c40e941ca8493ea30bdb8c
+sha256_codigo: c15f6daeac9d342173d44bc6d108b8d364c77afea72207d12e4a4888d13ee4da
+sha256_manifiesto_paquete: 168f33f00faed2c17ce6a499dadb01a4fe3b38a08dd24f4ffee99ee1dbbfebd2
+preparado_utc: 2026-11-06T16:30:03.617447+00:00
+estado: PENDIENTE DE PUBLICAR (no es un ancla hasta que se publique y se confirme con evidencia)
